@@ -1,0 +1,16 @@
+{
+  "name": "achu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "compile-sass": "node-sass node_modules/bootstrap/scss/estilos.scss -o ./css/"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "^5.3.2",
+    "node-sass": "^9.0.0"
+  }
+
+}
